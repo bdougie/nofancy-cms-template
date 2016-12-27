@@ -2,7 +2,7 @@
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/nofancy-cms-template)
 
-![mrtable image](https://s3-us-west-1.amazonaws.com/publis-brian-images/nofancy.png?X-Amz-Date=20161223T201223Z&X-Amz-Expires=300&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Signature=a0c7caaf825e8684eee6f048f85d092dc50439f998e826b3f5a951c5ffd6634e&X-Amz-Credential=ASIAIDNGOAYRSYHUBZUA/20161223/us-west-1/s3/aws4_request&X-Amz-SignedHeaders=Host&x-amz-security-token=FQoDYXdzEK3//////////wEaDIAjPW4rJRhKA2ZUjCL6AVocpLlA2inVQ/km%2B/smSRaNrpHq1zHnX7iQInIutiCsVi6AeLN%2B/bvEfYkqoUQmGWOMIWbZPTP86M61gVQlkmuyAdQmCg4IYU7RJoYEHu4iiBwkPeB6uBSORinIITm3qbZvXsHcO9YaPiCfhd/HONjd1/N6K%2BMX%2BxL5nHBtZJN0NbVvHrkEVaUpSsKxHdtWzei9oCJmmt90dxoc0ETuuslvdIQOtD21xADUfi8M57bIoLoG4Ey1r3fq5BAj4MUvBABa61AADAlUA2%2BAEOF0DzFqWtp/LPUB9zR8/TYQV2VjMWcgCvGgMNRMgXAWBfZtHUPUAI8/kJ7arq0okYf2wgU%3D)
+![mrtable image](https://s3-us-west-1.amazonaws.com/publis-brian-images/nofancy.png)
 
 **A [Hugo](http://gohugo.io/) boilerplate for creating truly epic websites**
 
